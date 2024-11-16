@@ -1,0 +1,11 @@
+Student ID,Age,Gender,Ethnicity,GPA,,Enrolled Program,Enrollment_Status,Support Needs,Graduation status
+1009,18,Female,Hispanic,3.8,,Computer Science,Enrolled,No,graduated
+1010,19,Male,Caucasian,3,,Business Administration,Enrolled,Yes,graduated
+1012,20,Female,Asian,3.5,,Psychology,Enrolled,No,graduated
+1013,18,Male,African Am.,2.7,,Undeclared,Not Enrolled,Yes,Notr graduated
+1014,21,Female,Hispanic,3.1,,Nursing,Enrolled,Yes,graduated
+1015,19,Male,Caucasian,3.9,,Engineering,Enrolled,No,Not graduated
+1016,22,Female,African Am.,2.9,,Liberal Arts,Not Enrolled,Yes,Not graduated
+1017,18,Male,Asian,3.6,,Biology,Enrolled,No,graduated
+1018,20,Female,Caucasian,3.2,,Education,Enrolled,Yes,graduated
+10019,21,Male,African Am.,2.8,,History,Not Enrolled,No,Not graduated
